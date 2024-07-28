@@ -1,5 +1,5 @@
 # Привет!<br>Меня зовут Арчи,<br> Я английский кокер-спаниель!<br>
-<img src=https://imgur.com/cwVpjSh><br>
+![](C:\Users\vozny\Desktop\QA\GIT\My website\.assets\.images\1.png)<br>
 Это я.<br>Лаймы — отличные мячики, правда? ☺
 
 ### Обо мне
