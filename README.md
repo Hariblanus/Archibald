@@ -1,4 +1,5 @@
 # Привет!<br>Меня зовут Арчи,<br> Я английский кокер-спаниель!<br>
+<<<<<<< HEAD
 ![](C:\Users\vozny\Desktop\QA\GIT\My website\.assets\.images\1.png)<br>
 Это я.<br>Лаймы — отличные мячики, правда? ☺
 
