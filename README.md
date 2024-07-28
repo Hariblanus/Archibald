@@ -1,5 +1,5 @@
 # Привет!<br>Меня зовут Арчи,<br> Я английский кокер-спаниель!<br>
-[Imgur](https://imgur.com/cwVpjSh)<br>
+<img src=https://imgur.com/cwVpjSh><br>
 Это я.<br>Лаймы — отличные мячики, правда? ☺
 
 ### Обо мне
@@ -11,13 +11,13 @@
 - Плавать
 - ~~Воровать носки~~
   
-[Imgur](https://imgur.com/p4yKDUh)<br>
+<img src=https://imgur.com/p4yKDUh><br>
 Вот я после купания, высыхаю на балконе, чтобы мне разрешили поваляться на кровати.<br>
 
-[Imgur](https://imgur.com/rse2aYM)<br>
+<img src=https://imgur.com/rse2aYM><br>
 **Вот так!**
 
-[Imgur](https://imgur.com/0PcfHt3)<br>
+<img src=https://imgur.com/0PcfHt3><br>
 Сейчас *лето*, поэтому я много гуляю!
 
 ### Если бы я умел писать стихи...<br>то написал бы что-то такое:
